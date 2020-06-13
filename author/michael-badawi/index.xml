@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Badawi | Achraf Atila</title>
+    <link>https://Atilaac.github.io/author/michael-badawi/</link>
+      <atom:link href="https://Atilaac.github.io/author/michael-badawi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Badawi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Atilaac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Badawi</title>
+      <link>https://Atilaac.github.io/author/michael-badawi/</link>
+    </image>
+    
+    <item>
+      <title>Computational insights into the structure of barium titanosilicate glasses</title>
+      <link>https://Atilaac.github.io/publication/ghardi-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://Atilaac.github.io/publication/ghardi-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
