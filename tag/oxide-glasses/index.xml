@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oxide Glasses | Achraf Atila</title>
+    <link>https://Atilaac.github.io/tag/oxide-glasses/</link>
+      <atom:link href="https://Atilaac.github.io/tag/oxide-glasses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oxide Glasses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Achraf Atila</copyright><lastBuildDate>Sat, 13 Jun 2020 16:47:45 +0200</lastBuildDate>
+    <image>
+      <url>https://Atilaac.github.io/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png</url>
+      <title>Oxide Glasses</title>
+      <link>https://Atilaac.github.io/tag/oxide-glasses/</link>
+    </image>
+    
+    <item>
+      <title>Oxide Glasses</title>
+      <link>https://Atilaac.github.io/project/oxide-glasses/</link>
+      <pubDate>Sat, 13 Jun 2020 16:47:45 +0200</pubDate>
+      <guid>https://Atilaac.github.io/project/oxide-glasses/</guid>
+      <description>&lt;p&gt;Oxide glasses are formed by a network of glass former polyhedra, and network modifiers having the role, either to neutralize/ stabilize the charge of the glass former polyhedra or depolymerize the glass network.&lt;/p&gt;
+&lt;p&gt;The effect of the modifier content on the structure and properties of the glass are to some extent, well known. However, the effect of the type of modifiers on the structural and the physical properties of oxide glasses is not investigated in detail and still not fully understood until now. The purpose of this project is to study, predict, and explain the effect of different modifiers on the structure and the physical properties of oxide glasses.&lt;/p&gt;
+&lt;p&gt;To this end, we applied molecular dynamics simulations to simulate the glass transition process, analyze the structure and evaluate the mechanical properties of silicate and aluminosilicate glasses.&lt;/p&gt;
+&lt;p&gt;The effect of different modifiers on the modifiers clustering and the tendency to form a phase separation in the glass was investigated in detail and we showed that the tendency of modifier&amp;mdash;modifier cluster formation is linked to the modifier size and modifier&amp;mdash;oxygen bond strength. We also discussed the effect of different modifiers on the short- and medium-range structure of the glass.&lt;/p&gt;
+&lt;p&gt;We calculated Elastic properties and the glass transition temperature of charge balanced aluminosilicate glasses. We found that elastic moduli increase with the charge balancing cations field strength (FS), while the glass transition temperature is negatively correlated to FS. The effect of the charge balancing cations field strength on the calculated properties is discussed and explained using the change in the structural properties, energetic environment of atoms, and two-body excess entropy.&lt;/p&gt;
+&lt;p&gt;The anomalous behavior of the glass transition temperature (Tg) observed in the aluminosilicate glasses as compared to other oxide glasses is investigated in detail. We showed that the glass transition temperature decreases with increasing charge balancing cations field strength (FS) in the aluminosilicate glasses. The origins of this anomaly come from the dynamics of the supercooled liquid above T$_g$, which in turn is correlated to pair excess entropy.&lt;/p&gt;
+&lt;p&gt;The results obtained in these studies will allow us to get an overview of the effect of cations nature on the properties of the glass and opens a new window for further development and optimization of the glass properties.&lt;/p&gt;
+&lt;p&gt;More studies are to be published soon, stay tuned.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metallic Glasses | Achraf Atila</title>
+    <link>https://Atilaac.github.io/tag/metallic-glasses/</link>
+      <atom:link href="https://Atilaac.github.io/tag/metallic-glasses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Metallic Glasses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Achraf Atila</copyright><lastBuildDate>Sat, 13 Jun 2020 16:47:56 +0200</lastBuildDate>
+    <image>
+      <url>https://Atilaac.github.io/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png</url>
+      <title>Metallic Glasses</title>
+      <link>https://Atilaac.github.io/tag/metallic-glasses/</link>
+    </image>
+    
+    <item>
+      <title>Metallic Glasses</title>
+      <link>https://Atilaac.github.io/project/metallic-glasses/</link>
+      <pubDate>Sat, 13 Jun 2020 16:47:56 +0200</pubDate>
+      <guid>https://Atilaac.github.io/project/metallic-glasses/</guid>
+      <description>&lt;p&gt;We used molecular dynamics to investigate the dependence of the atomic-scale structure on the temperature and pressure in Ni$_{15}$Co$_{15}$Al$_{70}$ metallic glass. The effect of pressure on the glass transition temperature was also studied, which shows an increase with increasing pressure. Moreover, radial distribution function, coordination number, and Voronoi tessellation analysis indicate that the applied pressure affects the local structure of glassy Ni$_{15}$Co$_{15}$Al$_{70}$. We introduced a new parameter based on the local symmetry to access the glass-forming ability of the metallic glasses with different cooling pressures. The glasses cooled under high-pressures showed a significant fraction of crystalline structure, which was found to be surrounded by a region of mixed-like clusters playing the for of an interface between the crystalline region and the glassy region. The correlation length as calculated from the full width at half maximum of the first sharp diffraction peak indicated an increase of the medium-range order with the increase of pressure.&lt;/p&gt;
+&lt;p&gt;A study in progress is to apply the dynamical mechanical spectroscopy to investigate the relaxation behavior and structural heterogeneity in metallic glasses using molecular dynamics simulations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

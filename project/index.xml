@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Achraf Atila</title>
-    <link>https://Atilaac.github.io/</link>
-      <atom:link href="https://Atilaac.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Achraf Atila</description>
+    <title>Projects | Achraf Atila</title>
+    <link>https://Atilaac.github.io/project/</link>
+      <atom:link href="https://Atilaac.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Achraf Atila</copyright><lastBuildDate>Sat, 13 Jun 2020 16:48:07 +0200</lastBuildDate>
     <image>
       <url>https://Atilaac.github.io/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png</url>
-      <title>Achraf Atila</title>
-      <link>https://Atilaac.github.io/</link>
+      <title>Projects</title>
+      <link>https://Atilaac.github.io/project/</link>
     </image>
     
     <item>
@@ -47,38 +47,6 @@
 &lt;p&gt;The results obtained in these studies will allow us to get an overview of the effect of cations nature on the properties of the glass and opens a new window for further development and optimization of the glass properties.&lt;/p&gt;
 &lt;p&gt;More studies are to be published soon, stay tuned.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Ionic Self-Diffusion and the Glass Transition Anomaly in Aluminosilicates</title>
-      <link>https://Atilaac.github.io/publication/atila-2020-a/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://Atilaac.github.io/publication/atila-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alumina effect on the structure and properties of calcium aluminosilicate in the percalcic region: A molecular dynamics investigation</title>
-      <link>https://Atilaac.github.io/publication/atila-2019-a/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://Atilaac.github.io/publication/atila-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atomistic insights into the impact of charge balancing cations on the structure and properties of aluminosilicate glasses</title>
-      <link>https://Atilaac.github.io/publication/atila-2019-b/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://Atilaac.github.io/publication/atila-2019-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational insights into the structure of barium titanosilicate glasses</title>
-      <link>https://Atilaac.github.io/publication/ghardi-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://Atilaac.github.io/publication/ghardi-2019/</guid>
-      <description></description>
     </item>
     
   </channel>
