@@ -17,10 +17,7 @@
       <link>https://Atilaac.github.io/project/bioactive-glasses/</link>
       <pubDate>Sat, 13 Jun 2020 16:48:07 +0200</pubDate>
       <guid>https://Atilaac.github.io/project/bioactive-glasses/</guid>
-      <description>&lt;p&gt;#Bioactive glasses have potential applications in the field of regenerative medicine due to their bioactivity, which enables the interactions with both hard and soft tissues. The soda-lime phosphosilicate glasses, such as 45S5, represent a model system of bioactive glasses. Regardless of their importance as bioactive materials, the relationship between the structure, pressure, and cooling process was not studied in detail. This affects the progress of further development of bioactive glasses negatively.  Our contribution to the field of bioactive glasses is to tailor/ enhance the mechanical properties of bioactive glasses. We used molecular dynamics simulations to study the dynamical, elastic, and structural properties of densified 45S5 bioactive glass over a large range of densities. We performed a systematic analysis of the glass structure to density in order correlate the change in the properties to the structural change with a target to enhance the mechanical elasticity of the bioactive glasses while keeping their bioactive nature. The results show that the glass structure tends to be repolymerized as indicated by an increase of the network connectivity. This, was accompanied by a tetrahedral to octahedral polyhedral transformation. We were able to tailor the elastic properties while keeping the bioactivity of the glass. This to the best of our knowledge the first study to address the improvement of the elastic/ mechanical properties of bioactive glasses through densification.&lt;/p&gt;
-&lt;p&gt;#The results obtained in these studies will allow us to enhance the mechanical properties of bioactive glasses and opens a new window for further development and optimization of the bioglasses properties.&lt;/p&gt;
-&lt;p&gt;#More studies are to be published soon, stay tuned.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -28,9 +25,7 @@
       <link>https://Atilaac.github.io/project/metallic-glasses/</link>
       <pubDate>Sat, 13 Jun 2020 16:47:56 +0200</pubDate>
       <guid>https://Atilaac.github.io/project/metallic-glasses/</guid>
-      <description>&lt;p&gt;#We used molecular dynamics to investigate the dependence of the atomic-scale structure on the temperature and pressure in Ni$_{15}$Co$_{15}$Al$_{70}$ metallic glass. The effect of pressure on the glass transition temperature was also studied, which shows an increase with increasing pressure. Moreover, radial distribution function, coordination number, and Voronoi tessellation analysis indicate that the applied pressure affects the local structure of glassy Ni$_{15}$Co$_{15}$Al$_{70}$. We introduced a new parameter based on the local symmetry to access the glass-forming ability of the metallic glasses with different cooling pressures. The glasses cooled under high-pressures showed a significant fraction of crystalline structure, which was found to be surrounded by a region of mixed-like clusters playing the for of an interface between the crystalline region and the glassy region. The correlation length as calculated from the full width at half maximum of the first sharp diffraction peak indicated an increase of the medium-range order with the increase of pressure.&lt;/p&gt;
-&lt;p&gt;#A study in progress is to apply the dynamical mechanical spectroscopy to investigate the relaxation behavior and structural heterogeneity in metallic glasses using molecular dynamics simulations.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -38,15 +33,7 @@
       <link>https://Atilaac.github.io/project/oxide-glasses/</link>
       <pubDate>Sat, 13 Jun 2020 16:47:45 +0200</pubDate>
       <guid>https://Atilaac.github.io/project/oxide-glasses/</guid>
-      <description>&lt;p&gt;#Oxide glasses are formed by a network of glass former polyhedra, and network modifiers having the role, either to neutralize/ stabilize the charge of the glass former polyhedra or depolymerize the glass network.&lt;/p&gt;
-&lt;p&gt;#The effect of the modifier content on the structure and properties of the glass are to some extent, well known. However, the effect of the type of modifiers on the structural and the physical properties of oxide glasses is not investigated in detail and still not fully understood until now. The purpose of this project is to study, predict, and explain the effect of different modifiers on the structure and the physical properties of oxide glasses.&lt;/p&gt;
-&lt;p&gt;#To this end, we applied molecular dynamics simulations to simulate the glass transition process, analyze the structure and evaluate the mechanical properties of silicate and aluminosilicate glasses.&lt;/p&gt;
-&lt;p&gt;#The effect of different modifiers on the modifiers clustering and the tendency to form a phase separation in the glass was investigated in detail and we showed that the tendency of modifier&amp;mdash;modifier cluster formation is linked to the modifier size and modifier&amp;mdash;oxygen bond strength. We also discussed the effect of different modifiers on the short- and medium-range structure of the glass.&lt;/p&gt;
-&lt;p&gt;#We calculated Elastic properties and the glass transition temperature of charge balanced aluminosilicate glasses. We found that elastic moduli increase with the charge balancing cations field strength (FS), while the glass transition temperature is negatively correlated to FS. The effect of the charge balancing cations field strength on the calculated properties is discussed and explained using the change in the structural properties, energetic environment of atoms, and two-body excess entropy.&lt;/p&gt;
-&lt;p&gt;#The anomalous behavior of the glass transition temperature (Tg) observed in the aluminosilicate glasses as compared to other oxide glasses is investigated in detail. We showed that the glass transition temperature decreases with increasing charge balancing cations field strength (FS) in the aluminosilicate glasses. The origins of this anomaly come from the dynamics of the supercooled liquid above T$_g$, which in turn is correlated to pair excess entropy.&lt;/p&gt;
-&lt;p&gt;#The results obtained in these studies will allow us to get an overview of the effect of cations nature on the properties of the glass and opens a new window for further development and optimization of the glass properties.&lt;/p&gt;
-&lt;p&gt;#More studies are to be published soon, stay tuned.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
