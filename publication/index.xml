@@ -2,15 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Achraf Atila</title>
-    <link>https://Atilaac.github.io/publication/</link>
-      <atom:link href="https://Atilaac.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.aatila.com/publication/</link>
+      <atom:link href="https://www.aatila.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Achraf Atila</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Achraf Atila</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Atilaac.github.io/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.aatila.com/media/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://Atilaac.github.io/publication/</link>
+      <link>https://www.aatila.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Thermally activated nature of synchro-Shockley dislocations in Laves phases</title>
+      <link>https://www.aatila.com/publication/xie-2023-b/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/xie-2023-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density-Diffusion Relationship in Soda-Lime Phosphosilicate</title>
+      <link>https://www.aatila.com/publication/ouldhnini-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/ouldhnini-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomistic insights into the mixed-alkali effect in phosphosilicate glasses</title>
+      <link>https://www.aatila.com/publication/atila-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/atila-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Origin of Deformation Induced Topological Anisotropy in Silica Glass</title>
+      <link>https://www.aatila.com/publication/ganisetti-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/ganisetti-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the mechanisms of motion of synchro-Shockley dislocations in Laves phases</title>
+      <link>https://www.aatila.com/publication/xie-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/xie-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomistic insights into the structure and elasticity of densified 45S5 bioactive glasses</title>
+      <link>https://www.aatila.com/publication/ouldhnini-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/ouldhnini-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the presence of nanoscale heterogeneity in Al70Ni15Co15 metallic glass under pressure</title>
+      <link>https://www.aatila.com/publication/atila-2020-c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/atila-2020-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomic Structure and Modifiers Clustering in Silicate glasses: Effect of Modifier Cations</title>
+      <link>https://www.aatila.com/publication/atila-2020-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/atila-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ionic self-diffusion and the glass transition anomaly in aluminosilicates</title>
+      <link>https://www.aatila.com/publication/atila-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/atila-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alumina effect on the structure and properties of calcium aluminosilicate in the percalcic region: A molecular dynamics investigation</title>
+      <link>https://www.aatila.com/publication/atila-2019-b/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/atila-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomistic insights into the impact of charge balancing cations on the structure and properties of aluminosilicate glasses</title>
+      <link>https://www.aatila.com/publication/atila-2019-a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/atila-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational insights into the structure of barium titanosilicate glasses</title>
+      <link>https://www.aatila.com/publication/ghardi-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.aatila.com/publication/ghardi-2019/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

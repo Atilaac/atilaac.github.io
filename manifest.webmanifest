@@ -1,0 +1,18 @@
+{
+  "name": "Achraf Atila",
+  "short_name": "Achraf Atila",
+  "lang": "en-us",
+  "theme_color": "#EF525B",
+  "background_color": "#EF525B",
+  "icons": [{
+    "src": "/media/icon_hu1596d6b584804863b1721867b7828bbf_230556_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

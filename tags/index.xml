@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Achraf Atila</title>
-    <link>https://Atilaac.github.io/tags/</link>
-      <atom:link href="https://Atilaac.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.aatila.com/tags/</link>
+      <atom:link href="https://www.aatila.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Achraf Atila</copyright><lastBuildDate>Sat, 13 Jun 2020 16:48:07 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Achraf Atila</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Atilaac.github.io/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.aatila.com/media/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://Atilaac.github.io/tags/</link>
+      <link>https://www.aatila.com/tags/</link>
     </image>
     
   </channel>

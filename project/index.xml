@@ -2,39 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Achraf Atila</title>
-    <link>https://Atilaac.github.io/project/</link>
-      <atom:link href="https://Atilaac.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.aatila.com/project/</link>
+      <atom:link href="https://www.aatila.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Achraf Atila</copyright><lastBuildDate>Sat, 13 Jun 2020 16:48:07 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Achraf Atila</copyright><lastBuildDate>Sun, 16 May 2021 18:06:23 +0200</lastBuildDate>
     <image>
-      <url>https://Atilaac.github.io/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.aatila.com/media/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://Atilaac.github.io/project/</link>
+      <link>https://www.aatila.com/project/</link>
     </image>
     
     <item>
+      <title>Anisotropic Glasses</title>
+      <link>https://www.aatila.com/project/anisotropic-glasses/</link>
+      <pubDate>Sun, 16 May 2021 18:06:23 +0200</pubDate>
+      <guid>https://www.aatila.com/project/anisotropic-glasses/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal&lt;/strong&gt;
+Melt-quenched glasses are typical example of isotropic materials, however, when processed accordingly anisotropy could be induced in them. This anisotropy is usually observed from the glass properties, e.g., mechanical, or optical. Here, within this project, we reveal the origins of the topological anisotropy in oxide glasses and how the glass properties are affected by it. Moreover, we aim to pave the route for further development and design of new glassed with tailored properties.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Large-Scale Molecular Dynamics Simulations&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Work is in progress and First results are to be published soon in two papers untitled &lt;a href=&#34;http://localhost:1313/publication/atila-2021-d/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Atomistic origins of deformation-induced structural anisotropy in metaphosphate glasses&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/publication/ganisetti-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;On the Origin of Deformation-Induced Topological Anisotropy in Silica Glass&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bioactive Glasses</title>
-      <link>https://Atilaac.github.io/project/bioactive-glasses/</link>
-      <pubDate>Sat, 13 Jun 2020 16:48:07 +0200</pubDate>
-      <guid>https://Atilaac.github.io/project/bioactive-glasses/</guid>
-      <description>&lt;p&gt;Oxide glasses are excellent bioactive materials. Most bioactive glasses are found within the ternary soda-lime silicate. These systems are known to have a relatively slow interaction with the physiological fluid, making the dissolving process slower and keeping the glass in the body for longer times than the tissue&amp;rsquo;s recovery period, which is undesirable. Moreover, most of these glasses have relatively low mechanical properties making their usage in different implantation zones difficult. Research in the field focused on the compositional design of bioactive glasses to tailor their properties.
-In this project, we are focused on investigating the effect of the thermodynamic history of the glasses on their physical properties (e.g., mechanical) and bioactivity using large scale classical and reactive atomistic simulations. The effect of alkali and alkaline earth elements is also investigated together with the glass surface reactivity.&lt;/p&gt;
+      <link>https://www.aatila.com/project/bioactive-glasses/</link>
+      <pubDate>Sun, 16 May 2021 18:06:10 +0200</pubDate>
+      <guid>https://www.aatila.com/project/bioactive-glasses/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Oxide glasses are excellent bioactive materials. Most bioactive glasses are found within the ternary soda-lime silicate. These systems are known to have a relatively slow interaction with the physiological fluid, making the dissolving process slower and keeping the glass in the body for longer times than the tissue&amp;rsquo;s recovery period, which is undesirable. Moreover, most of these glasses have relatively low mechanical properties making their usage in different implantation zones difficult. Research in the field focused on the compositional design of bioactive glasses to tailor their properties.&lt;/p&gt;
+&lt;p&gt;In this project, we are focused on investigating the effect of the thermodynamic history of the glasses on their physical properties (e.g., mechanical) and bioactivity using large scale classical and reactive atomistic simulations. The effect of alkali and alkaline earth elements is also investigated together with the glass surface reactivity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Molecular Dynamics Simulation, Reactive Molecular Dynamics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First results are published in the paper untitled &lt;a href=&#34;https://pubs.rsc.org/en/Content/ArticleLanding/2021/CP/D1CP02192C#!divAbstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Atomistic insights into the structure and elasticity of densified 45S5 bioactive glasses&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;, which is published in &lt;strong&gt;&lt;em&gt;Physical Chemistry Chemical Physics&lt;/em&gt;&lt;/strong&gt;. In the paper, we investigate for the first time the effect of cooling under pressure on the bioactivity, elasticity, and structure of 45S5 bioactive glass. We propose that the properties (i.e., mechanical) of bioacive glasses can be tailored by processing working on the pressure history of the glass.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Metallic Glasses</title>
-      <link>https://Atilaac.github.io/project/metallic-glasses/</link>
-      <pubDate>Sat, 13 Jun 2020 16:47:56 +0200</pubDate>
-      <guid>https://Atilaac.github.io/project/metallic-glasses/</guid>
+      <link>https://www.aatila.com/project/metallic-glasses/</link>
+      <pubDate>Sun, 16 May 2021 18:05:13 +0200</pubDate>
+      <guid>https://www.aatila.com/project/metallic-glasses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxide Glasses</title>
-      <link>https://Atilaac.github.io/project/oxide-glasses/</link>
-      <pubDate>Sat, 13 Jun 2020 16:47:45 +0200</pubDate>
-      <guid>https://Atilaac.github.io/project/oxide-glasses/</guid>
+      <link>https://www.aatila.com/project/oxide-glasses/</link>
+      <pubDate>Sun, 16 May 2021 18:05:05 +0200</pubDate>
+      <guid>https://www.aatila.com/project/oxide-glasses/</guid>
       <description></description>
     </item>
     

@@ -1,78 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://Atilaac.github.io/</loc>
-    <lastmod>2020-06-13T16:48:07+02:00</lastmod>
+    <loc>https://www.aatila.com/publication-type/0/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/tag/fos-physical-sciences/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/tag/materials-science-cond-mat.mtrl-sci/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication_types/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/tags/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/xie-2023-b/</loc>
+    <lastmod>2023-04-07T00:34:58+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication-type/2/</loc>
+    <lastmod>2023-04-07T00:34:48+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/ouldhnini-2022/</loc>
+    <lastmod>2023-04-07T00:34:48+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/atila-2022/</loc>
+    <lastmod>2023-04-07T00:34:39+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/ganisetti-2022/</loc>
+    <lastmod>2023-04-07T00:34:44+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/xie-2022/</loc>
+    <lastmod>2023-04-07T00:34:54+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/project/anisotropic-glasses/</loc>
+    <lastmod>2021-05-16T18:06:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/categories/</loc>
+    <lastmod>2021-05-16T18:06:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/project/</loc>
+    <lastmod>2021-05-16T18:06:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/category/projects/</loc>
+    <lastmod>2021-05-16T18:06:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/project/bioactive-glasses/</loc>
+    <lastmod>2021-05-16T18:06:10+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/project/metallic-glasses/</loc>
+    <lastmod>2021-05-16T18:05:13+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/project/oxide-glasses/</loc>
+    <lastmod>2021-05-16T18:05:05+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/ouldhnini-2021/</loc>
+    <lastmod>2023-04-07T00:34:34+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/atila-2020-c/</loc>
+    <lastmod>2023-04-07T00:34:29+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/atila-2020-b/</loc>
+    <lastmod>2023-04-07T00:34:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/atila-2020-a/</loc>
+    <lastmod>2023-04-07T00:34:19+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/atila-2019-b/</loc>
+    <lastmod>2023-04-07T00:34:13+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/atila-2019-a/</loc>
+    <lastmod>2023-04-07T00:33:53+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/publication/ghardi-2019/</loc>
+    <lastmod>2023-04-07T00:34:07+02:00</lastmod>
+  </url><url>
+    <loc>https://www.aatila.com/admin/</loc>
+  </url><url>
+    <loc>https://www.aatila.com/post/</loc>
+  </url><url>
+    <loc>https://www.aatila.com/event/</loc>
   </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/tag/bioactive-glasses/</loc>
-    <lastmod>2020-06-13T16:48:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/project/bioactive-glasses/</loc>
-    <lastmod>2020-06-13T16:48:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/project/</loc>
-    <lastmod>2020-06-13T16:48:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/tags/</loc>
-    <lastmod>2020-06-13T16:48:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/tag/metallic-glasses/</loc>
-    <lastmod>2020-06-13T16:47:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/project/metallic-glasses/</loc>
-    <lastmod>2020-06-13T16:47:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/tag/oxide-glasses/</loc>
-    <lastmod>2020-06-13T16:47:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/project/oxide-glasses/</loc>
-    <lastmod>2020-06-13T16:47:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/author/dr.-achraf-atila/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Atilaac.github.io/talk/</loc>
-  </url>
-  
 </urlset>
