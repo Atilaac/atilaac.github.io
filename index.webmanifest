@@ -2,14 +2,14 @@
   "name": "Achraf Atila",
   "short_name": "Achraf Atila",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#EF525B",
+  "background_color": "#EF525B",
   "icons": [{
-    "src": "/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_192x192_fill_lanczos_center_2.png",
+    "src": "/media/icon_hu1596d6b584804863b1721867b7828bbf_230556_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png",
+    "src": "/media/icon_hu1596d6b584804863b1721867b7828bbf_230556_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
